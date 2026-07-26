@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://news-zxea8h.venom88win.xyz/sitemap.xml
